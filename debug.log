@@ -1,0 +1,16 @@
+[0104/142012.393:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0104/142726.360:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0104/161254.184:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0104/161916.138:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0104/172022.346:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0104/172022.349:ERROR:exception_snapshot_win.cc(99)] thread ID 6672 not found in process
+[0104/172022.374:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0104/172022.374:ERROR:exception_snapshot_win.cc(99)] thread ID 17844 not found in process
+[0104/172103.958:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0104/172103.958:ERROR:exception_snapshot_win.cc(99)] thread ID 10572 not found in process
+[0104/172103.977:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0104/172103.977:ERROR:exception_snapshot_win.cc(99)] thread ID 12560 not found in process
+[0104/172156.338:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0104/172156.352:ERROR:exception_snapshot_win.cc(99)] thread ID 3196 not found in process
+[0104/172156.369:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0104/172156.369:ERROR:exception_snapshot_win.cc(99)] thread ID 16140 not found in process
